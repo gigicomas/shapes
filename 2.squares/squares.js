@@ -8,4 +8,15 @@ function draw(){
 
   //your drawing goes here
 
+fill ("red");
+ rect (30,20,55,55);
+ fill ("green");
+ rect (100,20,55,55);
+ fill ("blue");
+ rect (30,90,55,55);
+ fill ("yellow")
+ rect (100,90,55,55);
+
+
+
 }
